@@ -1,2 +1,3 @@
-# Materials-for-convex-optimization
-凸优化的练习程序
+# 凸优化作业的练习程序
+Materials-for-convex-optimization
+
